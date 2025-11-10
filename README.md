@@ -11,3 +11,6 @@ Después, saqué información como cuántas canciones tiene el dataset, los arti
 también calculé el promedio de reproducciones, la canción más escuchada y el artista con más temas en el ranking.
 Luego, agregué una nueva columna que muestra las reproducciones en millones para que sea más fácil de entender.
 Por último, guardé el nuevo archivo con los cambios.
+#MovieOnStreamingPlatforms-Dataset
+Analisis Exploratorio de datos 
+En este trabajo realicé un análisis exploratorio del dataset Movies on Streaming Platforms. Revisé y limpié los datos, apliqué filtros para ver las películas con mejores y peores calificaciones, y añadí columnas nuevas para analizar en cuántas plataformas estaba cada película. Finalmente, obtuve conclusiones sobre las películas más destacadas y las tendencias generales del dataset
