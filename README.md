@@ -13,4 +13,3 @@ Luego, agregué una nueva columna que muestra las reproducciones en millones par
 Por último, guardé el nuevo archivo con los cambios.
 #MovieOnStreamingPlatforms-Dataset
 Analisis Exploratorio de datos 
-En este trabajo realicé un análisis exploratorio del dataset Movies on Streaming Platforms. Revisé y limpié los datos, apliqué filtros para ver las películas con mejores y peores calificaciones, y añadí columnas nuevas para analizar en cuántas plataformas estaba cada película. Finalmente, obtuve conclusiones sobre las películas más destacadas y las tendencias generales del dataset
