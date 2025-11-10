@@ -12,4 +12,4 @@ también calculé el promedio de reproducciones, la canción más escuchada y el
 Luego, agregué una nueva columna que muestra las reproducciones en millones para que sea más fácil de entender.
 Por último, guardé el nuevo archivo con los cambios.
 #MovieOnStreamingPlatforms-Dataset
-Analisis Exploratorio de datos 
+Analisis Exploratorio de datos.
