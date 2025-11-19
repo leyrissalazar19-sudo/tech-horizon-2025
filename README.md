@@ -14,3 +14,5 @@ Por último, guardé el nuevo archivo con los cambios.
 # MoviesOnStreamingPlatforms-Dataset
 # Analisis Exploratorios de datos 
 En este trabajo realicé un análisis exploratorio del dataset Movies on Streaming Platforms. Revisé y limpié los datos, apliqué filtros para ver las películas con mejores y peores calificaciones, y añadí columnas nuevas para analizar en cuántas plataformas estaba cada película. Finalmente, obtuve conclusiones sobre las películas más destacadas y las tendencias generales del dataset
+# Mini Proyecto: Dashboard Personal
+Este trabajo muestra diferentes análisis hechos con el dataset de ventas de Starbucks 2025. Se presentan gráficos que ayudan a entender cómo se comportan las ventas durante el año, cómo varían entre sucursales, cómo cambia la satisfacción de los clientes, cómo se comportan los tiempos de preparación según el turno y cómo se relaciona el stock con las ventas. Cada gráfica permite observar patrones, subidas, bajadas y comportamientos importantes dentro de los datos.
